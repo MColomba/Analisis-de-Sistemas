@@ -4,20 +4,9 @@
 
 Actualmente faltan los siguientes elementos por entregar:
 
-- [ ] Prototipos de Interfaz  
-  - Ambos casos  
-  - Formatos requeridos: `.drawio` y `.png`
-
 - [ ] Diagramas de Asociación de Casos de Uso  
   - Ambos casos  
   - Formato requerido: `.drawio`
-
-- [ ] Diagramas de Secuencia  
-  - Ambos casos  
-  - Formatos requeridos: `.drawio` y `.png`
-
-- [ ] Archivo MS Visio  
-  - Debe contener los modelos UML y los prototipos desarrollados
 
 ---
 
